@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Details</title>
+</head>
+
+<body>
+    <div>
+        You have successfully registered
+        <br />
+        Your details are as follows
+    </div>
+    {% for key, value in result.items() %}
+    <span><strong>{{key}}:</strong></span>
+    <span>{{value}}</span><br>
+    {% endfor %}
+</body>
+
+</html>
