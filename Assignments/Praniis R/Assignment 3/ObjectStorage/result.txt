@@ -1,0 +1,12 @@
+HTML
+https://ibm-objs.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html
+
+CSS
+https://ibm-objs.s3.jp-tok.cloud-object-storage.appdomain.cloud/style.css
+
+IMAGE
+https://ibm-objs.s3.jp-tok.cloud-object-storage.appdomain.cloud/img/img1.jpeg
+https://ibm-objs.s3.jp-tok.cloud-object-storage.appdomain.cloud/img/img2.jpeg
+https://ibm-objs.s3.jp-tok.cloud-object-storage.appdomain.cloud/img/img3.png
+https://ibm-objs.s3.jp-tok.cloud-object-storage.appdomain.cloud/img/img4.png
+https://ibm-objs.s3.jp-tok.cloud-object-storage.appdomain.cloud/img/img5.jpg
