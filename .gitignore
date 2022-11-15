@@ -5,3 +5,4 @@ venv
 *.pyc
 .env
 *.cer
+.DS_Store
