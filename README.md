@@ -15,6 +15,12 @@ In simple words, personal finance entails all the financial decisions and activi
 
 Personal finance applications will ask users to add their expenses and based on their expenses wallet balance will be updated which will be visible to the user. Also, users can get an analysis of their expenditure in graphical forms. They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert.
 
+**Team Memebers**
+1. Joodith Hermmina L - 7179KCTKCTKCTKCTKCTKCTKCT19BCS018
+2. Raghunandhan AJ - 7179KCTKCTKCTKCTKCTKCTKCT19BCS108
+3. Praniis R - 7179KCTKCTKCTKCTKCTKCTKCT19BCS060
+4. Manavallan S - 7179KCTKCTKCTKCTKCTKCTKCT19BCS087
+
 **Technical Architecture:**
 
 ![image](https://user-images.githubusercontent.com/67360396/200102367-dad102d3-63f0-4c16-be39-173105c4e5de.png)
