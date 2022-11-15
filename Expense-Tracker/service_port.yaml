@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: Service
-metadata:
-  name: nodeport
-spec:
-  type: NodePort
-  ports:
-   - port: 30456
